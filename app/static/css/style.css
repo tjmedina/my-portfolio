@@ -1,0 +1,63 @@
+ body {
+  background-image: url(../images/bg01.jpg);
+  margin: 0;
+  font-size: 1.2rem;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+
+ }
+
+#slogan {
+  font-weight: bold;
+  font-size: 1.8rem;
+}
+
+.section{
+  display: flex;
+  align-items: center;
+  align-content: center;
+}
+
+.div-1 {
+  margin-top: 5rem;
+  margin-left: 15rem;
+  color: white;
+  width: 34rem;
+  height: 22.5rem;
+  background-color: black;
+  vertical-align: middle;
+  text-align: justify;
+  padding: 0.5rem;
+  border-radius: 1rem;
+  box-shadow: 0 0.1rem 0.1rem 0 rgb(5, 59, 0);
+}
+
+.div-2 {
+  width: 25rem;
+  margin-top: 10rem;
+  padding-left: 3rem;
+}
+
+
+h3 {
+  text-align: center;
+}
+
+.btn-1 {
+  background-color: rgba(46, 150, 46);
+  margin-top: 1rem;
+  color: white;
+  font-weight: bold;
+}
+
+#box {
+    width: 22rem;
+    border-radius: 1rem;
+    box-shadow: 0 1rem 1rem 0 rgb(46, 150, 46);
+    background-color: white;
+    
+  }
+
+
+  
