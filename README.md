@@ -9,5 +9,5 @@ Code Wizard, AI Enthusiast 🚀
 * [Portfolio Web] (https://www.midominio.com)
 
 ## See live example
-- [LINKGITHUB] (LINKGITHUB)
+- [[LINKGITHUB](https://tjmedina.github.io/my-portfolio/)https://tjmedina.github.io/my-portfolio/] ([LINKGITHUB](https://tjmedina.github.io/my-portfolio/)https://tjmedina.github.io/my-portfolio/)
 
